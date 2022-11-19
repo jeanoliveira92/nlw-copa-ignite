@@ -1,0 +1,25 @@
+
+npx create-expo-app mobile
+
+https://nativebase.io/
+
+yarn add native-base
+
+expo install react-native-svg@12.1.1
+
+expo install react-native-safe-area-context@3.3.2
+
+npx expo install expo-font @expo-google-fonts/inter
+
+https://github.com/kristerkari/react-native-svg-transformer
+yarn add --dev react-native-svg-transformers
+
+https://docs.expo.dev/versions/latest/sdk/auth-session/
+npx expo install expo-auth-session expo-random
+
+https://docs.expo.dev/versions/latest/sdk/webbrowser/
+npx expo install expo-web-browser
+
+https://console.cloud.google.com/
+
+phosphor-react-native
