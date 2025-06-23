@@ -16,3 +16,21 @@ yarn add --dev react-native-svg-transformers
 
 https://docs.expo.dev/versions/latest/sdk/auth-session/
 npx expo install expo-auth-session expo-random
+
+<npx eslint --init>
+npm i @rocketseat/eslint-config -D
+
+criar arquivo .eslintrc.json
+
+{
+    "extends":[
+        "rocketseat/esint-config/node"
+    ]
+}
+
+npm i prisma -D
+npx prisma init --datasource-provider SQLite
+
+npx prisma migrate dev
+- create users table
+
